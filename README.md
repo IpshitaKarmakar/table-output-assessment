@@ -43,9 +43,9 @@ Only the final numeric results are displayed on the webpage.
 - JavaScript
 
 ## Deployment
-The project is hosted using a static hosting service (such as GitHub Pages or Vercel) and is publicly accessible for review.
-
-
+The project is hosted using a static hosting service github pages and is publicly accessible for review.
 
 ## Author
-**Ipshita Karmakar**
+Ipshita Karmakar
+Final Year in National Insitute of Technology Arunachal Pradesh, India
+
